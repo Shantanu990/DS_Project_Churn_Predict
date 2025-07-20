@@ -10,4 +10,4 @@
 - Running classifier_xgb will also export the results of prediction and probabilities in churn_predictions.csv file in your working directory.
 - Optionally run shap_xgb() or shap_lr() to generate SHAP summary plot and force plot for the respective model.
 - For a detailed overview of the entire project, including in-depth EDA, model development methodologies, and full results: Navigate to file_name (in progress)
-Acknowledgment: Thankful to Kaggel and user Tanky for publishing the Telco_customer_churn.xlsx dataset
+- Acknowledgment: Thankful to Kaggel and user Tanky for publishing the Telco_customer_churn.xlsx dataset
