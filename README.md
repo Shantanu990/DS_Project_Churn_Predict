@@ -1,4 +1,4 @@
-<img width="4342" height="55" alt="image" src="https://github.com/user-attachments/assets/5dfa5d4f-8696-49e4-9206-420ee847a9d1" />**Project Title:** Classification model to predict customer churn and compute churn probabilities
+**Project Title:** Classification model to predict customer churn and compute churn probabilities
 
 **Project Overview:** An IBM open-source customer churn dataset, sourced from Kaggle, was used for the classification model. With over 7,000 well-structured samples, the dataset was clean and had no missing values, requiring no substantial alteration or formatting. Analysis of the dataset revealed that the churn score failed to provide a definitive estimation of customer churn for approximately 30% of samples where the score ranged between 65 and 80.
 
